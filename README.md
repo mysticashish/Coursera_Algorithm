@@ -1,2 +1,6 @@
 # Coursera_Algorithm
-Only started first course.
+Status:
+Course1:Complete
+Course2:One assignment left.
+Course3:One assignment left.
+Course4:In progress.
